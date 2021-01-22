@@ -9,7 +9,7 @@ Linux Mint 20
 
 Feel Free to Pull or Push!
 
-#Instalation:
+Instalation:
 $ sudo  sh -c "$(wget https://github.com/Saizzou/Chuwi_Hi_X10_Touchscreen/blob/main/horizontal.sh)"
 
 
