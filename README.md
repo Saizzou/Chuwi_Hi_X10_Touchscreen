@@ -14,7 +14,7 @@ Linux Mint 20
 ***
 
 ### Instalation: \
-`$ sudo  sh -c "$(wget https://github.com/Saizzou/Chuwi_Hi_X10_Touchscreen/blob/main/horizontal.sh)" `
+`$ sudo  sh -c "$(wget https://github.com/Saizzou/Chuwi_Hi_X10_Touchscreen/blob/main/install.sh)" `
 
 
 With My Screen Turner Script you will be able to Turn the Screen and Touch Screen Recognition
