@@ -2,14 +2,14 @@
 Touchscreen and Screen Turning Script for Chuwi Hi X10!
 
 This Script is written in Shell Script! The Script was tested by me on:
-Kali Linux 2020.4
-Debian 10 with a 4.19 Kernel
-Debian 10 with a 5.8 Kernel
+Kali Linux 2020.4 \
+Debian 10 with a 4.19 Kernel \
+Debian 10 with a 5.8 Kernel \
 Linux Mint 20
 
 Feel Free to Pull or Push!
 
-Instalation:
+#Instalation:
 $ sudo  sh -c "$(wget https://github.com/Saizzou/Chuwi_Hi_X10_Touchscreen/blob/main/horizontal.sh)"
 
 
